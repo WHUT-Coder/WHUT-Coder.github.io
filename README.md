@@ -1,4 +1,4 @@
 WHUT-Coder.github.io
 ====================
 
-WHUT Linux爱好者联盟
+WHUT Linuxer联盟
