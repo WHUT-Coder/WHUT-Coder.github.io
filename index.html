@@ -1,25 +1,13 @@
-<html style='font-family:"Times New Roman", Times, serif;font-size:1.250em;'>
+---
+layout: default
+title: Linux学习之道
+---
 
-<head>
-	<title>WHUT Linuxer Association</title>
-</head>
-
-<body>
-	<p align="center"><b>The way to learn Linux</b></p>
-	<br>
-	<p>Table of contents</p>
-	<ul>
-		<li>Linux system archtecture</li>
-		<li>Linux commands & daily usage</li>
-		<li>Linux system programming</li>
-		<li>Other...</li>
-	</ul>
-
-	<br>
-	<p>welcome to join me, :)! </p>
-	<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp                  ----by faywong</p>
-
-
-
-</body>
-</html>
+<div id="home">
+  <h1>文章列表</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
