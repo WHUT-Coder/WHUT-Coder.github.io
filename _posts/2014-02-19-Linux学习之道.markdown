@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Linux学习之道"
+date:   2014-02-17 11:14:45
+categories: Linux study
+---
+
+* [操作系统]({{ site.url }}/ViewerJS#../assets/os_quick_guide.odt)
+* [Linux系统架构]({{ site.url }}/ViewerJS#../assets/linux_os.odt)
+* [Linux命令及日常使用](http://nixsrv.com/?id=llthw)
+* [Linux系统编程]({{ site.url }}/ViewerJS#../assets/linux_system_programming_zh.odt)
+* 其他主题
+
+[whutlinuxer]: https://github.com/WHUT-Coder
