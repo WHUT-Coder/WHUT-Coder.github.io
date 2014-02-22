@@ -1,4 +1,4 @@
-WHUT-Coder.github.io
-====================
+whutlinuxer.github.io
+=====================
 
-[WHUT-Linuxer联盟博客](http://whut-coder.github.io/)
+[WHUT Linux爱好者联盟博客](http://whutlinuxer.github.io/)
